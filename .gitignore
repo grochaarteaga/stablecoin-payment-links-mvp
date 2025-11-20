@@ -1,0 +1,17 @@
+# Python
+backend/__pycache__/
+backend/.venv/
+frontend/.venv/
+**/__pycache__/
+*.pyc
+
+# Env
+.env
+*.env
+
+# Streamlit
+frontend/.streamlit/
+
+# IDE
+.vscode/
+.idea/
